@@ -10,3 +10,16 @@ I am Krishna Rawat, a dedicated Computer Science and Engineering student with a 
 - **Responsive Design**: Optimized for various devices using HTML5 and CSS.
 
 ## Technologies Used
+
+- HTML5
+- CSS
+- JavaScript
+- GitHub for version control
+
+## Getting Started
+
+To view my portfolio:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/krrishrawat009/Your-Portfolio-Repo.git
